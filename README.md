@@ -155,8 +155,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🧰 Maintainer
 
-**Artem Rivnyi**
+**Artem Rivnyi** — Junior Technical Support / DevOps Enthusiast
 
-*   📧 [artemrivnyi@outlook.com]()
+*   📧 [artemrivnyi@outlook.com](mailto:artemrivnyi@outlook.com)
 *   🔗 [LinkedIn](https://www.linkedin.com/in/artem-rivnyi/)
-
