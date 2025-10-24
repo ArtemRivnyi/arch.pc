@@ -1,5 +1,10 @@
 # ⚙️ Arch.pc: Algorithms and Data Structures Labs
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Arch.pc** is a collection of laboratory assignments focused on fundamental algorithms and data structures, implemented in Java. Each lab explores a specific concept, providing practical implementations and performance comparisons. This project is designed for students and developers aiming to deepen their understanding of algorithms and data structures.
 
 ## 📝 Table of Contents
